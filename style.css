@@ -1,0 +1,68 @@
+#pa{
+    position: absolute;
+    top: 71;
+    left: 300;
+    height: 30;
+    border-style: solid;
+    
+    
+}
+
+#roi{
+     position: absolute;
+    top: 130;
+    left: 300;
+    height: 30;
+    border-style: solid;
+}
+#per{
+     position: absolute;
+    top: 71;
+    left: 272;
+    height: 24;
+    width: 24;
+    align-content: center;
+    border-style: solid;
+    border-color: black;
+    border-spacing: 15px;
+    
+    
+}
+
+#time{
+    position: absolute;
+    top: 190;
+    left: 300;
+    height: 30;
+    border-style: solid;
+}
+
+#cal{
+    color: white;
+    position: absolute;
+    left: 300px;
+    top: 250;
+    height: 30;
+    width: 90;
+    border-style: solid;
+    border-color: black;
+    border-radius: 40;
+    border-width: 3;
+    border-radius: 25px;
+    background: #73AD21;
+}
+#si{
+    position: absolute;
+    top: 307;
+    left: 300;
+    height: 30;
+    border-style: solid;
+}
+#ci{
+    position: absolute;
+    top: 367;
+    left: 300;
+    height: 30;
+    border-style: solid;
+}
+
